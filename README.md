@@ -7,7 +7,6 @@ This program performs actions that can cause damage to your system. By running t
 
 It is highly recommended to test this program on a virtual machine before executing it on a production system. Running this program can overwrite critical system components, potentially rendering your system inoperable. Always ensure you have a backup of important data before running this program. In the event of any issues, you may need to reinstall your operating system.
 
-Please read the [IMPORTANT.txt] in ZIP file for more detailed information and instructions.
 ## Credits
 
 Made with love by RubRubTheRob and Ir0x
