@@ -12,3 +12,10 @@ Please read the [IMPORTANT.txt] in ZIP file for more detailed information and in
 ## Installation and Usage
 
 Go to releases, and download **Release 1.0** https://github.com/Ir0xWare/MBR_Overrider-/releases/tag/v1.0
+
+## Credits
+
+Made with love by RubRubTheRob and Ir0x
+
+█▀ █░█ █▄▄   ▀█▀ █▀█   █▀█ █░█ █▄▄ █▀█ █░█ █▄▄ ▀█▀ █░█ █▀▀ █▀█ █▀█ █▄▄ █▀▀ █▀▄
+▄█ █▄█ █▄█   ░█░ █▄█   █▀▄ █▄█ █▄█ █▀▄ █▄█ █▄█ ░█░ █▀█ ██▄ █▀▄ █▄█ █▄█ █▄█ █▄▀
